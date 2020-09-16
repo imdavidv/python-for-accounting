@@ -1,4 +1,5 @@
-# Bank Reconciliaiton With Two Excel Files
+# Bank Reconciliation With Two Excel Files
+## A process to review the data files prior to import into accounting program.
 
 ###### I used the Purchasing.PurchasingOrderHeader table from the AdventureWorks2017 database from microsoft. 
 ###### I modified the purchase order to represent a check number and exported to an excel file called 'BankRec_example.xlsx'
