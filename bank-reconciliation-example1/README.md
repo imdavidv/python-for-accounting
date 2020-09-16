@@ -1,4 +1,4 @@
-# Bank Reconcilitaiton With Two Excel Files
+# Bank Reconciliaiton With Two Excel Files
 
 ###### I used the Purchasing.PurchasingOrderHeader table from the AdventureWorks2017 database from microsoft. 
 ###### I modified the purchase order to represent a check number and exported to an excel file called 'BankRec_example.xlsx'
